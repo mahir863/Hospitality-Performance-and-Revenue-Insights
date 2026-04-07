@@ -58,6 +58,9 @@ Walkthrough of Key Visuals
 
 * Channel Analysis (Bar & Line Chart): Realisation % and ADR across booking platforms to identify high-performing channels
 
+* Realization: Utilized Room Nights/ Booked Room Nights
+* Booked Room nights are URN + No show + Cancelled Rooms and URN is out of total rooms how many were utilized or used
+
 Business Impact & Insights
 
 * Enabled end-to-end performance visibility across cities and properties, reducing manual reporting effort
